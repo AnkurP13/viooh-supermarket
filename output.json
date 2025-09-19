@@ -1,0 +1,33 @@
+{
+  "receipts" : [ {
+    "itemId" : "APPLE",
+    "quantity" : 5,
+    "price" : "3.00",
+    "discount" : "0.60",
+    "ruleDiscount" : "Rule1: Buy 3 get 1 free on any item",
+    "totalPrice" : "2.40"
+  }, {
+    "itemId" : "BANANA",
+    "quantity" : 3,
+    "price" : "0.90",
+    "discount" : "0.30",
+    "ruleDiscount" : "Rule1: Buy 3 get 1 free on any item",
+    "totalPrice" : "0.60"
+  }, {
+    "itemId" : "SHAMPOO",
+    "quantity" : 4,
+    "price" : "6.00",
+    "discount" : "1.50",
+    "ruleDiscount" : "Rule1: Buy 3 get 1 free on any item",
+    "totalPrice" : "4.50"
+  }, {
+    "itemId" : "SOAP",
+    "quantity" : 2,
+    "price" : "6.00",
+    "discount" : "0.75",
+    "ruleDiscount" : "Rule2: Buy 2 Equal priced items for special price",
+    "totalPrice" : "5.25"
+  } ],
+  "originalTotalPrice" : "£12.75",
+  "discountedTotalPrice" : "£15.90"
+}

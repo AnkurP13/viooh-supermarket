@@ -1,0 +1,5 @@
+ruleId,description,specialprice,quantity,itemId01,quantity,itemId02
+Rule1,Buy 3 get 1 free on any item,,,,,,
+Rule2,Buy 2 Equal priced items for special price,5.25,,SOAP,,,
+Rule3,Cheapest in group free,,,,,,
+Rule4,Buy 2 shampoos get 1 soap free,,2,SHAMPOO,1,SOAP,
